@@ -6,35 +6,35 @@
 
 #IncludeRegexTransform: 
 
-/home/juchunyu/Code/RANSAC/src/GradDescent.h
+/home/juchunyu/Code/tes/GradDesent/src/GradDescent.h
 iostream
 -
 vector
 -
 
-/home/juchunyu/Code/RANSAC/src/GradDesent.cpp
+/home/juchunyu/Code/tes/GradDesent/src/GradDesent.cpp
 GradDescent.h
-/home/juchunyu/Code/RANSAC/src/GradDescent.h
+/home/juchunyu/Code/tes/GradDesent/src/GradDescent.h
 iostream
 -
 cmath
 -
 
-/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.cpp
+/home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.cpp
 MATRIXINVERSE.h
-/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.h
+/home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.h
 iostream
 -
 
-/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.h
+/home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.h
 iostream
 -
 
-/home/juchunyu/Code/RANSAC/src/RANSAC.cpp
+/home/juchunyu/Code/tes/GradDesent/src/RANSAC.cpp
 GradDescent.h
-/home/juchunyu/Code/RANSAC/src/GradDescent.h
+/home/juchunyu/Code/tes/GradDesent/src/GradDescent.h
 MATRIXINVERSE.h
-/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.h
+/home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.h
 iostream
 -
 

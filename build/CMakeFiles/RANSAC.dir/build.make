@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/juchunyu/Code/RANSAC
+CMAKE_SOURCE_DIR = /home/juchunyu/Code/tes/GradDesent
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/juchunyu/Code/RANSAC/build
+CMAKE_BINARY_DIR = /home/juchunyu/Code/tes/GradDesent/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/RANSAC.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/RANSAC.dir/flags.make
 
 CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o: CMakeFiles/RANSAC.dir/flags.make
 CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o: ../src/MATRIXINVERSE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juchunyu/Code/RANSAC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o -c /home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o -c /home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.cpp
 
 CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.cpp > CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.cpp > CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.i
 
 CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.cpp -o CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.cpp -o CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.s
 
 CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o.provides.build: CMakeFiles/RANSAC.
 
 CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o: CMakeFiles/RANSAC.dir/flags.make
 CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o: ../src/GradDesent.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juchunyu/Code/RANSAC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o -c /home/juchunyu/Code/RANSAC/src/GradDesent.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o -c /home/juchunyu/Code/tes/GradDesent/src/GradDesent.cpp
 
 CMakeFiles/RANSAC.dir/src/GradDesent.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RANSAC.dir/src/GradDesent.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juchunyu/Code/RANSAC/src/GradDesent.cpp > CMakeFiles/RANSAC.dir/src/GradDesent.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juchunyu/Code/tes/GradDesent/src/GradDesent.cpp > CMakeFiles/RANSAC.dir/src/GradDesent.cpp.i
 
 CMakeFiles/RANSAC.dir/src/GradDesent.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RANSAC.dir/src/GradDesent.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juchunyu/Code/RANSAC/src/GradDesent.cpp -o CMakeFiles/RANSAC.dir/src/GradDesent.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juchunyu/Code/tes/GradDesent/src/GradDesent.cpp -o CMakeFiles/RANSAC.dir/src/GradDesent.cpp.s
 
 CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o.provides.build: CMakeFiles/RANSAC.dir
 
 CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o: CMakeFiles/RANSAC.dir/flags.make
 CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o: ../src/RANSAC.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juchunyu/Code/RANSAC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o -c /home/juchunyu/Code/RANSAC/src/RANSAC.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o"
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o -c /home/juchunyu/Code/tes/GradDesent/src/RANSAC.cpp
 
 CMakeFiles/RANSAC.dir/src/RANSAC.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/RANSAC.dir/src/RANSAC.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juchunyu/Code/RANSAC/src/RANSAC.cpp > CMakeFiles/RANSAC.dir/src/RANSAC.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juchunyu/Code/tes/GradDesent/src/RANSAC.cpp > CMakeFiles/RANSAC.dir/src/RANSAC.cpp.i
 
 CMakeFiles/RANSAC.dir/src/RANSAC.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/RANSAC.dir/src/RANSAC.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juchunyu/Code/RANSAC/src/RANSAC.cpp -o CMakeFiles/RANSAC.dir/src/RANSAC.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juchunyu/Code/tes/GradDesent/src/RANSAC.cpp -o CMakeFiles/RANSAC.dir/src/RANSAC.cpp.s
 
 CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o.requires:
 
@@ -143,7 +143,7 @@ RANSAC: CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o
 RANSAC: CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o
 RANSAC: CMakeFiles/RANSAC.dir/build.make
 RANSAC: CMakeFiles/RANSAC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/juchunyu/Code/RANSAC/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable RANSAC"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable RANSAC"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/RANSAC.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -162,6 +162,6 @@ CMakeFiles/RANSAC.dir/clean:
 .PHONY : CMakeFiles/RANSAC.dir/clean
 
 CMakeFiles/RANSAC.dir/depend:
-	cd /home/juchunyu/Code/RANSAC/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/juchunyu/Code/RANSAC /home/juchunyu/Code/RANSAC /home/juchunyu/Code/RANSAC/build /home/juchunyu/Code/RANSAC/build /home/juchunyu/Code/RANSAC/build/CMakeFiles/RANSAC.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/juchunyu/Code/tes/GradDesent/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/juchunyu/Code/tes/GradDesent /home/juchunyu/Code/tes/GradDesent /home/juchunyu/Code/tes/GradDesent/build /home/juchunyu/Code/tes/GradDesent/build /home/juchunyu/Code/tes/GradDesent/build/CMakeFiles/RANSAC.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/RANSAC.dir/depend
 

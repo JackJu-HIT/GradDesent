@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/juchunyu/Code/RANSAC/src/GradDesent.cpp" "/home/juchunyu/Code/RANSAC/build/CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o"
-  "/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.cpp" "/home/juchunyu/Code/RANSAC/build/CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o"
-  "/home/juchunyu/Code/RANSAC/src/RANSAC.cpp" "/home/juchunyu/Code/RANSAC/build/CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o"
+  "/home/juchunyu/Code/tes/GradDesent/src/GradDesent.cpp" "/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles/RANSAC.dir/src/GradDesent.cpp.o"
+  "/home/juchunyu/Code/tes/GradDesent/src/MATRIXINVERSE.cpp" "/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles/RANSAC.dir/src/MATRIXINVERSE.cpp.o"
+  "/home/juchunyu/Code/tes/GradDesent/src/RANSAC.cpp" "/home/juchunyu/Code/tes/GradDesent/build/CMakeFiles/RANSAC.dir/src/RANSAC.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

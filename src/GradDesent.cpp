@@ -126,7 +126,7 @@ vector<double> GradDecent::calculateGradDescent()
        cout<<"B_result:"<<B_result<<endl;
        cout<<"J_iterations:"<<J_iterations<<endl;
        */
-       cout<<"当前训练次数:"<<J_iterations<<endl;
+       cout<<"当前训练次数:"<<i<<endl;
        cout<<"当前迭代误差："<<abs(J_current - J_last)<<endl;
        J_last = J_current;
     }

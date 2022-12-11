@@ -1,4 +1,4 @@
-# Install script for directory: /home/juchunyu/Code/RANSAC
+# Install script for directory: /home/juchunyu/Code/tes/GradDesent
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/juchunyu/Code/RANSAC/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/juchunyu/Code/tes/GradDesent/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

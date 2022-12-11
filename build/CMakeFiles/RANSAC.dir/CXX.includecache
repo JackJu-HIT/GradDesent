@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juchunyu/Code/RANSAC/src/GradDescent.h
+iostream
+-
+vector
+-
+
+/home/juchunyu/Code/RANSAC/src/GradDesent.cpp
+GradDescent.h
+/home/juchunyu/Code/RANSAC/src/GradDescent.h
+iostream
+-
+cmath
+-
+
+/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.cpp
+MATRIXINVERSE.h
+/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.h
+iostream
+-
+
+/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.h
+iostream
+-
+
+/home/juchunyu/Code/RANSAC/src/RANSAC.cpp
+GradDescent.h
+/home/juchunyu/Code/RANSAC/src/GradDescent.h
+MATRIXINVERSE.h
+/home/juchunyu/Code/RANSAC/src/MATRIXINVERSE.h
+iostream
+-
+
